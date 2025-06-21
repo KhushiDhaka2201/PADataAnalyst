@@ -1,0 +1,19 @@
+Directory Structure 
+Customer-Segmentation-RFM/
+│
+├── README.md
+├── dataset.csv
+└── customer_segmentation_rfm_analysis.ipynb
+
+Dataset.csv
+CustomerID,InvoiceDate,InvoiceNo,Quantity,Price
+1001,2023-03-01,INV001,2,150
+1002,2023-03-05,INV002,1,700
+1003,2023-03-10,INV003,3,100
+1001,2023-03-15,INV004,1,150
+1002,2023-04-01,INV005,2,700
+1003,2023-04-05,INV006,1,100
+1004,2023-04-15,INV007,1,1200
+1005,2023-05-01,INV008,2,400
+1001,2023-05-10,INV009,3,150
+1003,2023-05-20,INV010,2,100
