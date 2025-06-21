@@ -1,0 +1,16 @@
+Dataset Structure
+We simulate transactional sales data:
+
+CustomerID	InvoiceDate	InvoiceNo	Quantity	Price
+1001	       2023-03-05	  INV001	   2	      150
+1002	       2023-03-07	  INV002	   1	      700
+1003	       2023-03-10	  INV003	   3	      100
+...	...	...	...	...
+
+From this, we’ll calculate:
+
+Recency: How recently a customer purchased
+
+Frequency: How often a customer purchased
+
+Monetary: How much money the customer spent
